@@ -1,16 +1,50 @@
-## Hi there 👋
+ <h2 align="center">Hi 👋, I'm Arcot Saikiran, A Gen AI Engineer, Data Scientist and Web Developer</h2>
 
-<!--
-**Arcotsaikiran/Arcotsaikiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Generative AI and Data Science.
+- 🌱 I’m always learning and exploring the fields of AI/ML and Web Development.
+- 📫 How to reach me: [arcotsaikiran](mailto:arcotsaikiran1611@gmail.com)
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠️ Tech Stack</h3>
+
+<br>
+
+***Data Science :*** `Python`, `Data Visualization`, `Supervised Learning Algorithms`, `Unsupervised Learning Algorithms`, `EDA`, `Feature Engineering`, `Feature Selection`, `Hyper parameter Tuning`, `NLP`, `ANN`, `CNN`, `RNN`, `LSTM`, `GRU`, `Transformers`.
+
+***Generative AI Teck Stack:*** `LangChain`, `LLM`
+
+***Frontend:*** `HTML`, `CSS`, `JavaScript`, `React`, `Next.JS`, `Angular`  
+
+***Backend:*** `Node.js`, `Express`, `MongoDB`, `Postman`  
+
+***Design:*** `Figma`, `Canva`  
+
+***Tools:*** `Git`, `VSCode`, `Notion`
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Languages and Tools:
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,github,git,postgres,fastapi,flask,postman,figma&perline=5)](https://skillicons.dev)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Arcotsaikiran">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+
+  
+
+
+</div>
+
+
+
+
+
+
