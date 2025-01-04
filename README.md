@@ -1,4 +1,4 @@
- <h2 align="center">Hi 👋, I'm Arcot Saikiran, A Gen AI Engineer, Data Scientist and Web Developer</h2>
+ <h2 align="center">Hi 👋, I'm Arcot Saikiran, An AI/ML Engineer and Python Developer</h2>
 
 - 🔭 I’m currently working on Generative AI and Data Science.
 - 🌱 I’m always learning and exploring the fields of AI/ML and Web Development.
